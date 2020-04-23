@@ -38,10 +38,5 @@ int main()
     	}
     }
   }
-  /*
-  for (int i = 0; i < solution.size(); i++) {
-    cout<< solution.at(i) << " ";
-  }
-  */
   cout << solution.size() << endl;
 }
